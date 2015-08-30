@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-        printf("**********************************************\n");
+        printf("**********************recursion ************************\n");
         int f=fact(5);
         printf("the factorial is %d",f);
         return 0;
