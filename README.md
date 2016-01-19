@@ -4,6 +4,8 @@ data structure and algorithm
  
  ## Installation of dcc
   sudo apt-get install gcc
+  ##for debugging
+   Sudo apt-get install gdb 
   
 ## Compilation of program
  gcc -o obj program.c
